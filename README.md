@@ -48,7 +48,7 @@ import matplotlib.pyplot as plt
 ```
 
 # Step 1: Load the image
-image = cv2.imread('sv.jpeg')  # Load the image from file
+image = cv2.imread('Mine.jpeg')  # Load the image from file
 
 # Display the original image
 ```
